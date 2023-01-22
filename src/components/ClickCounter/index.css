@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #f1f5f8;
+  text-align: center;
+  padding-top: 250px;
+  height: 100vh;
+}
+
+.heading {
+  color: #2d3a35;
+}
+.span {
+  color: #c20a72;
+}
+.button {
+  color: #f1f5f8;
+  background-color: #007bff;
+  font-size: 20px;
+  padding: 10px;
+  border: 2px #007bff;
+  border-radius: 8px;
+}
